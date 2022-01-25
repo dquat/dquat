@@ -10,5 +10,6 @@ I'm soemone, you: a random stranger on the internet, do not have the required el
 - **💬 Ask me about:** nothing would be preferable.
 - **📫 How to reach me:** umm... you can use user.some1@outlook.com (though I rarely look).
 - **😄 Pronouns:** he/him, and anything else you call a male.
-- **⚡ Fun fact:** nothing random strangers on the internet would need to know.<br/>
+- **⚡ Fun fact:** nothing random strangers on the internet would need to know.
+
 I have used the default github thing because I dunno what to put here, really.
